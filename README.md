@@ -1,5 +1,4 @@
-### Hi there 👋
-
+### Olá! Coisas aqui estão um pouco bagunçadas, mas já estão sendo arrumadas...✨
 <!--
 **Mandy310798/Mandy310798** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
