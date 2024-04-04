@@ -7,6 +7,17 @@
   <img width="43%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mandy310798&layout=compact&langs_count=16&theme=midnight-purple" />
 </div>
 
+### Sobre mim:
+
+- 🎲 Estou cursando ensino superior em Ciência de dados
+- 🐍 Iniciando os estudos em Python
+- 🎇 Já estudei um pouco de front-end
+- ⚙ Trabalhei durante sete anos com Engenharia de Manutenção (analisando indicadores)
+
+### Contatos:
+
+  <a href="mailto:fegoncalves.amanda@hotmail.com">![Outlook](https://img.shields.io/badge/Email-7600bc?style=for-the-badge&logo=microsoft-outlook&logoColor=white)</a>&nbsp;
+  <a href="https://www.linkedin.com/in/amanda-gon%C3%A7alves-31071998/">![LinkedIn](https://img.shields.io/badge/linkedin-%237600bc.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>&nbsp;
 
  
 ### Principais Habilidades:
