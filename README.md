@@ -3,8 +3,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=300&color=7522F7&center=true&vCenter=true&random=false&width=1000&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Amanda!;Sou+estudante+de+Ci%C3%AAncia+de+dados.;Seja+bem+vindo+ao+meu+GitHub!)](https://git.io/typing-svg)
 
 <div align="center">  
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Mandy310798&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true" alt="Amanda Ferreira Gonçalves stats"/> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mandy310798&layout=compact&langs_count=16&theme=midnight-purple" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Mandy310798&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true" alt="Amanda Ferreira Gonçalves stats"/> 
+  <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mandy310798&layout=compact&langs_count=16&theme=midnight-purple" />
 </div>
 
 
