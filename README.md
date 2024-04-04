@@ -4,7 +4,7 @@
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Mandy310798&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true" alt="Amanda Ferreira Gonçalves stats"/> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mandy310798&layout=compact&langs_count=16&theme=midnight-purple" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mandy310798&layout=compact&langs_count=16&theme=midnight-purple" />
 </div>
 
 
