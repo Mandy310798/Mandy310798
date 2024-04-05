@@ -41,7 +41,12 @@
 ### Estudando no momento:
 ![Python](https://img.shields.io/badge/-python-7600bc?style=for-the-badge&logo=python&logoColor=white&labelColor=7600bc)&nbsp;
 
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mandy310798/Mandy310798/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mandy310798/Mandy310798/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Mandy310798/Mandy310798/output/github-contribution-grid-snake.svg">
+</picture>
+<br><br>
 
 <!--footer -->
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=7600bc&section=footer&reversal=true&textBg=false"/>
