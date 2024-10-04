@@ -13,6 +13,7 @@
 - 🐍 Iniciando os estudos em Python
 - 🎇 Já estudei um pouco de front-end
 - ⚙ Trabalhei durante sete anos com Engenharia de Manutenção (analisando indicadores)
+- 💻 Estagiando no Itaú-Unibanco
 
 ### Contatos:
 
